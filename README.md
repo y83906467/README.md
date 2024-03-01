@@ -1,1 +1,3 @@
 # README.md
+Yang Yizhen, male, professor of engineering title, bachelor's degree from Nanjing University of Science and Technology, master's degree from Nanjing University, senior engineer title. Former senior solution expert at Huawei Technology Co., Ltd., one of the founders of ZTE Nanjing Research Institute, with 26 years of experience in the field of communication.
+Received the highest honor in the field of science and technology in Jiangsu Province, including one first prize, one second prize, two third prizes, and one Nanjing Science and Technology Progress Award, and filled multiple domestic gaps. A total of 7 authorized invention patents, 1 integrated circuit layout, and 2 integrated circuit related works have been compiled.
